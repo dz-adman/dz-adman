@@ -1,5 +1,5 @@
 - 👋 Hi, I’m [Arun Kumar](https://www.linkedin.com/in/dkumararun/).
-- 👀 I’m interested in freelancing projects in java.
+- 👀 I’m interested in freelancing projects in java (speciality in APIs).
 - 🌱 I’m currently enhancing my knowledge in Spring-Boot and learning cloud technologies.
 - 💻 I can develop desktop / web applications as per user requirement.
 - 📫 Please feel free to reach me at:
