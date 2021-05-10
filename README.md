@@ -1,6 +1,6 @@
 You're at the profile of a **Programmer** & **Backend Developer**   
 who like to interact with machines in **Java**,  
-and currently enhancing knowledge in **Spring-Boot** and learning **cloud technologies**.  
+and currently enhancing knowledge in **Spring-Boot** and learning **Cloud Technologies**.  
 
 
 
