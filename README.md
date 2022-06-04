@@ -1,6 +1,6 @@
 You're at the profile of a **Programmer** & **Backend Developer**   
 who like to interact with machines in **Java**,  
-and currently enhancing knowledge in **Spring-Boot** and learning **Cloud Technologies**.  
+and currently enhancing knowledge in **Programming**, **Spring-Boot** and learning **Cloud Technologies**.  
 
 <p align="right">
   <a href="https://www.linkedin.com/in/dkumararun/">Arun Kumar</a><br>
